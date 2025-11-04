@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,32,0" name="DiskonHarga.behavior.BehaviorAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:b9f3198a-6653-4049-bdd6-2c04a95fd1b4(DiskonHarga.behavior)/4895307001422397370">
+    <file name="Produk__BehaviorDescriptor.java">
+      <node id="4895307001422397370" at="25,0,26,0" concept="7" trace="CONCEPT" />
+      <node id="4895307001422397370" at="27,0,28,0" concept="7" trace="getTruePrice_id4fJBWw6gVZd" />
+      <node id="4895307001422397370" at="29,0,30,0" concept="7" trace="BH_METHODS" />
+      <node id="4895307001422399326" at="34,82,35,125" concept="4" />
+      <node id="4895307001422403686" at="35,125,36,122" concept="4" />
+      <node id="4895307001422408248" at="36,122,37,0" concept="6" />
+      <node id="4895307001422408304" at="37,0,38,35" concept="5" />
+      <node id="4895307001422397370" at="45,114,46,21" concept="1" />
+      <node id="4895307001422397370" at="50,114,51,49" concept="4" />
+      <node id="4895307001422397370" at="52,26,53,56" concept="10" />
+      <node id="4895307001422397370" at="56,13,57,64" concept="5" />
+      <node id="4895307001422397370" at="58,14,59,58" concept="10" />
+      <node id="4895307001422397370" at="64,128,65,49" concept="4" />
+      <node id="4895307001422397370" at="66,26,67,56" concept="10" />
+      <node id="4895307001422397370" at="70,14,71,58" concept="10" />
+      <node id="4895307001422397370" at="77,48,78,22" concept="5" />
+      <node id="4895307001422397370" at="83,40,84,19" concept="5" />
+      <node id="4895307001422397370" at="88,0,89,0" concept="7" trace="discount$9FA3" />
+      <node id="4895307001422397370" at="89,0,90,0" concept="7" trace="price$6fKq" />
+      <node id="4895307001422397370" at="93,0,94,0" concept="7" trace="angka$VA47" />
+      <node id="4895307001422397370" at="94,0,95,0" concept="7" trace="price$VAiD" />
+      <node id="4895307001422397370" at="31,0,33,0" concept="8" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="4895307001422397370" at="41,0,43,0" concept="0" trace="Produk__BehaviorDescriptor#()V" />
+      <node id="4895307001422397370" at="51,49,54,5" concept="2" />
+      <node id="4895307001422397370" at="65,49,68,5" concept="2" />
+      <node id="4895307001422397370" at="44,0,48,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="4895307001422397370" at="68,5,72,5" concept="9" />
+      <node id="4895307001422397370" at="75,0,80,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="4895307001422397370" at="81,0,86,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="4895307001422397370" at="34,0,40,0" concept="8" trace="getTruePrice_id4fJBWw6gVZd#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
+      <node id="4895307001422397370" at="54,5,60,5" concept="9" />
+      <node id="4895307001422397370" at="63,0,74,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="4895307001422397370" at="49,0,62,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="4895307001422397370" at="31,63,31,63" />
+      <scope id="4895307001422397370" at="41,44,41,44" />
+      <scope id="4895307001422397370" at="45,114,46,21" />
+      <scope id="4895307001422397370" at="52,26,53,56" />
+      <scope id="4895307001422397370" at="56,13,57,64" />
+      <scope id="4895307001422397370" at="58,14,59,58" />
+      <scope id="4895307001422397370" at="66,26,67,56" />
+      <scope id="4895307001422397370" at="70,14,71,58" />
+      <scope id="4895307001422397370" at="77,48,78,22" />
+      <scope id="4895307001422397370" at="83,40,84,19" />
+      <scope id="4895307001422397370" at="31,0,33,0">
+        <var name="__thisNode__" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="41,0,43,0" />
+      <scope id="4895307001422397392" at="34,82,38,35">
+        <var name="dsc" id="4895307001422399329" />
+        <var name="prc" id="4895307001422403689" />
+      </scope>
+      <scope id="4895307001422397370" at="44,0,48,0">
+        <var name="constructor" id="4895307001422397370" />
+        <var name="node" id="4895307001422397370" />
+        <var name="parameters" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="75,0,80,0" />
+      <scope id="4895307001422397370" at="81,0,86,0" />
+      <scope id="4895307001422397370" at="34,0,40,0">
+        <var name="__thisNode__" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="64,128,72,5">
+        <var name="methodIndex" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="50,114,60,5">
+        <var name="methodIndex" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="63,0,74,0">
+        <var name="concept" id="4895307001422397370" />
+        <var name="method" id="4895307001422397370" />
+        <var name="parameters" id="4895307001422397370" />
+      </scope>
+      <scope id="4895307001422397370" at="49,0,62,0">
+        <var name="method" id="4895307001422397370" />
+        <var name="node" id="4895307001422397370" />
+        <var name="parameters" id="4895307001422397370" />
+      </scope>
+      <unit id="4895307001422397370" at="87,0,91,0" name="DiskonHarga.behavior.Produk__BehaviorDescriptor$LINKS" />
+      <unit id="4895307001422397370" at="92,0,96,0" name="DiskonHarga.behavior.Produk__BehaviorDescriptor$PROPS" />
+      <unit id="4895307001422397370" at="24,0,97,0" name="DiskonHarga.behavior.Produk__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
