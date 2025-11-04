@@ -15,7 +15,7 @@
       <unit at="10,0,36,0" name="DiskonHarga.structure.LanguageConceptSwitch" />
     </file>
     <file name="StructureAspectDescriptor.java">
-      <unit at="15,0,106,0" name="DiskonHarga.structure.StructureAspectDescriptor" />
+      <unit at="15,0,108,0" name="DiskonHarga.structure.StructureAspectDescriptor" />
     </file>
   </root>
   <root nodeRef="r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/3878537549303574497">
@@ -37,20 +37,21 @@
     </file>
     <file name="StructureAspectDescriptor.java">
       <node id="3878537549303574497" at="19,0,20,0" concept="1" trace="myConceptMarket" />
-      <node id="3878537549303574497" at="48,40,49,31" concept="4" />
-      <node id="3878537549303574497" at="86,64,87,152" concept="3" />
-      <node id="3878537549303574497" at="87,152,88,33" concept="0" />
-      <node id="3878537549303574497" at="88,33,89,71" concept="0" />
-      <node id="3878537549303574497" at="89,71,90,98" concept="0" />
-      <node id="3878537549303574497" at="90,98,91,17" concept="0" />
-      <node id="3878537549303624020" at="91,17,92,197" concept="0" />
-      <node id="3878537549303574497" at="92,197,93,22" concept="4" />
-      <node id="3878537549303574497" at="86,0,95,0" concept="6" trace="createDescriptorForMarket#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
-      <scope id="3878537549303574497" at="48,40,49,31" />
-      <scope id="3878537549303574497" at="86,64,93,22">
+      <node id="3878537549303574497" at="49,40,50,31" concept="4" />
+      <node id="3878537549303574497" at="87,64,88,152" concept="3" />
+      <node id="3878537549303574497" at="88,152,89,33" concept="0" />
+      <node id="3878537549303574497" at="89,33,90,71" concept="0" />
+      <node id="3878537549303574497" at="90,71,91,76" concept="0" />
+      <node id="3878537549303574497" at="91,76,92,98" concept="0" />
+      <node id="3878537549303574497" at="92,98,93,17" concept="0" />
+      <node id="3878537549303624020" at="93,17,94,197" concept="0" />
+      <node id="3878537549303574497" at="94,197,95,22" concept="4" />
+      <node id="3878537549303574497" at="87,0,97,0" concept="6" trace="createDescriptorForMarket#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3878537549303574497" at="49,40,50,31" />
+      <scope id="3878537549303574497" at="87,64,95,22">
         <var name="b" id="3878537549303574497" />
       </scope>
-      <scope id="3878537549303574497" at="86,0,95,0" />
+      <scope id="3878537549303574497" at="87,0,97,0" />
     </file>
   </root>
   <root nodeRef="r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/3878537549303574499">
@@ -72,21 +73,21 @@
     </file>
     <file name="StructureAspectDescriptor.java">
       <node id="3878537549303574499" at="20,0,21,0" concept="1" trace="myConceptProduk" />
-      <node id="3878537549303574499" at="50,40,51,31" concept="4" />
-      <node id="3878537549303574499" at="95,64,96,152" concept="3" />
-      <node id="3878537549303574499" at="96,152,97,34" concept="0" />
-      <node id="3878537549303574499" at="97,34,98,71" concept="0" />
-      <node id="3878537549303574499" at="98,71,99,98" concept="0" />
-      <node id="3878537549303574499" at="99,98,100,17" concept="0" />
-      <node id="3878537549303624130" at="100,17,101,199" concept="0" />
-      <node id="3878537549303624227" at="101,199,102,201" concept="0" />
-      <node id="3878537549303574499" at="102,201,103,22" concept="4" />
-      <node id="3878537549303574499" at="95,0,105,0" concept="6" trace="createDescriptorForProduk#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
-      <scope id="3878537549303574499" at="50,40,51,31" />
-      <scope id="3878537549303574499" at="95,64,103,22">
+      <node id="3878537549303574499" at="51,40,52,31" concept="4" />
+      <node id="3878537549303574499" at="97,64,98,152" concept="3" />
+      <node id="3878537549303574499" at="98,152,99,34" concept="0" />
+      <node id="3878537549303574499" at="99,34,100,71" concept="0" />
+      <node id="3878537549303574499" at="100,71,101,98" concept="0" />
+      <node id="3878537549303574499" at="101,98,102,17" concept="0" />
+      <node id="3878537549303624130" at="102,17,103,199" concept="0" />
+      <node id="3878537549303624227" at="103,199,104,201" concept="0" />
+      <node id="3878537549303574499" at="104,201,105,22" concept="4" />
+      <node id="3878537549303574499" at="97,0,107,0" concept="6" trace="createDescriptorForProduk#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3878537549303574499" at="51,40,52,31" />
+      <scope id="3878537549303574499" at="97,64,105,22">
         <var name="b" id="3878537549303574499" />
       </scope>
-      <scope id="3878537549303574499" at="95,0,105,0" />
+      <scope id="3878537549303574499" at="97,0,107,0" />
     </file>
   </root>
   <root nodeRef="r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/3878537549303574504">
@@ -108,19 +109,19 @@
     </file>
     <file name="StructureAspectDescriptor.java">
       <node id="3878537549303574504" at="17,0,18,0" concept="1" trace="myConceptHarga" />
-      <node id="3878537549303574504" at="44,39,45,30" concept="4" />
-      <node id="3878537549303574504" at="70,63,71,151" concept="3" />
-      <node id="3878537549303574504" at="71,151,72,34" concept="0" />
-      <node id="3878537549303574504" at="72,34,73,98" concept="0" />
-      <node id="3878537549303574504" at="73,98,74,17" concept="0" />
-      <node id="3878537549303574507" at="74,17,75,112" concept="0" />
-      <node id="3878537549303574504" at="75,112,76,22" concept="4" />
-      <node id="3878537549303574504" at="70,0,78,0" concept="6" trace="createDescriptorForHarga#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
-      <scope id="3878537549303574504" at="44,39,45,30" />
-      <scope id="3878537549303574504" at="70,63,76,22">
+      <node id="3878537549303574504" at="45,39,46,30" concept="4" />
+      <node id="3878537549303574504" at="71,63,72,151" concept="3" />
+      <node id="3878537549303574504" at="72,151,73,34" concept="0" />
+      <node id="3878537549303574504" at="73,34,74,98" concept="0" />
+      <node id="3878537549303574504" at="74,98,75,17" concept="0" />
+      <node id="3878537549303574507" at="75,17,76,112" concept="0" />
+      <node id="3878537549303574504" at="76,112,77,22" concept="4" />
+      <node id="3878537549303574504" at="71,0,79,0" concept="6" trace="createDescriptorForHarga#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3878537549303574504" at="45,39,46,30" />
+      <scope id="3878537549303574504" at="71,63,77,22">
         <var name="b" id="3878537549303574504" />
       </scope>
-      <scope id="3878537549303574504" at="70,0,78,0" />
+      <scope id="3878537549303574504" at="71,0,79,0" />
     </file>
   </root>
   <root nodeRef="r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/3878537549303574505">
@@ -142,19 +143,19 @@
     </file>
     <file name="StructureAspectDescriptor.java">
       <node id="3878537549303574505" at="16,0,17,0" concept="1" trace="myConceptDiskon" />
-      <node id="3878537549303574505" at="42,40,43,31" concept="4" />
-      <node id="3878537549303574505" at="62,64,63,152" concept="3" />
-      <node id="3878537549303574505" at="63,152,64,34" concept="0" />
-      <node id="3878537549303574505" at="64,34,65,98" concept="0" />
-      <node id="3878537549303574505" at="65,98,66,17" concept="0" />
-      <node id="3878537549303574506" at="66,17,67,112" concept="0" />
-      <node id="3878537549303574505" at="67,112,68,22" concept="4" />
-      <node id="3878537549303574505" at="62,0,70,0" concept="6" trace="createDescriptorForDiskon#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
-      <scope id="3878537549303574505" at="42,40,43,31" />
-      <scope id="3878537549303574505" at="62,64,68,22">
+      <node id="3878537549303574505" at="43,40,44,31" concept="4" />
+      <node id="3878537549303574505" at="63,64,64,152" concept="3" />
+      <node id="3878537549303574505" at="64,152,65,34" concept="0" />
+      <node id="3878537549303574505" at="65,34,66,98" concept="0" />
+      <node id="3878537549303574505" at="66,98,67,17" concept="0" />
+      <node id="3878537549303574506" at="67,17,68,112" concept="0" />
+      <node id="3878537549303574505" at="68,112,69,22" concept="4" />
+      <node id="3878537549303574505" at="63,0,71,0" concept="6" trace="createDescriptorForDiskon#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3878537549303574505" at="43,40,44,31" />
+      <scope id="3878537549303574505" at="63,64,69,22">
         <var name="b" id="3878537549303574505" />
       </scope>
-      <scope id="3878537549303574505" at="62,0,70,0" />
+      <scope id="3878537549303574505" at="63,0,71,0" />
     </file>
   </root>
   <root nodeRef="r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/5882088276832351722">
@@ -176,19 +177,19 @@
     </file>
     <file name="StructureAspectDescriptor.java">
       <node id="5882088276832351722" at="18,0,19,0" concept="1" trace="myConceptMain" />
-      <node id="5882088276832351722" at="46,38,47,29" concept="4" />
-      <node id="5882088276832351722" at="78,62,79,150" concept="3" />
-      <node id="5882088276832351722" at="79,150,80,33" concept="0" />
-      <node id="5882088276832351722" at="80,33,81,98" concept="0" />
-      <node id="5882088276832351722" at="81,98,82,17" concept="0" />
-      <node id="5882088276832351723" at="82,17,83,197" concept="0" />
-      <node id="5882088276832351722" at="83,197,84,22" concept="4" />
-      <node id="5882088276832351722" at="78,0,86,0" concept="6" trace="createDescriptorForMain#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
-      <scope id="5882088276832351722" at="46,38,47,29" />
-      <scope id="5882088276832351722" at="78,62,84,22">
+      <node id="5882088276832351722" at="47,38,48,29" concept="4" />
+      <node id="5882088276832351722" at="79,62,80,150" concept="3" />
+      <node id="5882088276832351722" at="80,150,81,33" concept="0" />
+      <node id="5882088276832351722" at="81,33,82,98" concept="0" />
+      <node id="5882088276832351722" at="82,98,83,17" concept="0" />
+      <node id="5882088276832351723" at="83,17,84,197" concept="0" />
+      <node id="5882088276832351722" at="84,197,85,22" concept="4" />
+      <node id="5882088276832351722" at="79,0,87,0" concept="6" trace="createDescriptorForMain#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5882088276832351722" at="47,38,48,29" />
+      <scope id="5882088276832351722" at="79,62,85,22">
         <var name="b" id="5882088276832351722" />
       </scope>
-      <scope id="5882088276832351722" at="78,0,86,0" />
+      <scope id="5882088276832351722" at="79,0,87,0" />
     </file>
   </root>
 </debug-info>

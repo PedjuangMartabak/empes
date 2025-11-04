@@ -28,6 +28,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   @Override
   public void reportDependencies(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.Dependencies deps) {
     deps.extendedLanguage(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, "jetbrains.mps.lang.core");
+    deps.extendedLanguage(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, "jetbrains.mps.execution.util");
   }
 
   @Override
@@ -87,6 +88,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("DiskonHarga", "Market", 0x72952a5e6c024ddbL, 0x862b2e9250db5990L, 0x35d3555a0a40efe1L);
     b.class_(false, false, true);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
+    b.parent(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L);
     b.origin("r:c316e61a-fa88-4503-ba84-d9896137ee94(DiskonHarga.structure)/3878537549303574497");
     b.version(3);
     b.aggregate("body", 0x35d3555a0a41b154L).target(0x72952a5e6c024ddbL, 0x862b2e9250db5990L, 0x35d3555a0a40efe3L).optional(false).ordered(true).multiple(true).origin("3878537549303624020").done();

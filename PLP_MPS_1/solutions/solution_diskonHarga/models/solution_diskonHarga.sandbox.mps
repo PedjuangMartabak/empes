@@ -20,9 +20,6 @@
       <concept id="3878537549303574497" name="DiskonHarga.structure.Market" flags="ng" index="Z$VEV">
         <child id="3878537549303624020" name="body" index="Z$Ige" />
       </concept>
-      <concept id="5882088276832351722" name="DiskonHarga.structure.Main" flags="ng" index="3nHpnP">
-        <child id="5882088276832351723" name="toko" index="3nHpnO" />
-      </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ngI" index="TrEIO">
@@ -30,44 +27,30 @@
       </concept>
     </language>
   </registry>
-  <node concept="Z$VEV" id="3njllCagCVi">
-    <property role="TrG5h" value="SetraJaya" />
-    <node concept="Z$VET" id="6oVaQuMUuGU" role="Z$Ige">
-      <property role="TrG5h" value="Gula" />
-      <node concept="Z$VEM" id="6oVaQuMUuGV" role="Z$Iio">
-        <property role="Z$VEL" value="15000" />
+  <node concept="Z$VEV" id="24oSWWYXLA7">
+    <property role="TrG5h" value="SetraJayaAbadi" />
+    <node concept="Z$VET" id="24oSWWYXLA8" role="Z$Ige">
+      <property role="TrG5h" value="Minyak" />
+      <node concept="Z$VEM" id="24oSWWYXLA9" role="Z$Iio">
+        <property role="Z$VEL" value="20000" />
       </node>
-      <node concept="Z$VEN" id="6oVaQuMUuGW" role="Z$ItT">
-        <property role="Z$VEK" value="10" />
-      </node>
-    </node>
-    <node concept="Z$VET" id="6oVaQuMUuGX" role="Z$Ige">
-      <property role="TrG5h" value="Beras" />
-      <node concept="Z$VEM" id="6oVaQuMUuGY" role="Z$Iio">
-        <property role="Z$VEL" value="16000" />
-      </node>
-      <node concept="Z$VEN" id="6oVaQuMUuGZ" role="Z$ItT">
+      <node concept="Z$VEN" id="24oSWWYXLBn" role="Z$ItT">
         <property role="Z$VEK" value="5" />
       </node>
     </node>
-    <node concept="Z$VET" id="6oVaQuMUuH0" role="Z$Ige">
-      <property role="TrG5h" value="Minyak Goreng" />
-      <node concept="Z$VEM" id="6oVaQuMUuH1" role="Z$Iio">
-        <property role="Z$VEL" value="20000" />
+    <node concept="Z$VET" id="24oSWWZ0ufs" role="Z$Ige">
+      <property role="TrG5h" value="Beras" />
+      <node concept="Z$VEM" id="24oSWWZ0uft" role="Z$Iio">
+        <property role="Z$VEL" value="15000" />
+      </node>
+      <node concept="Z$VEN" id="24oSWWZ0ugm" role="Z$ItT">
+        <property role="Z$VEK" value="10" />
       </node>
     </node>
-  </node>
-  <node concept="3nHpnP" id="56xo1Y65A8Z">
-    <node concept="Z$VEV" id="56xo1Y65A90" role="3nHpnO">
-      <property role="TrG5h" value="QSetraJaya" />
-      <node concept="Z$VET" id="56xo1Y65A91" role="Z$Ige">
-        <property role="TrG5h" value="Minyak" />
-        <node concept="Z$VEM" id="56xo1Y65A92" role="Z$Iio">
-          <property role="Z$VEL" value="20000" />
-        </node>
-        <node concept="Z$VEN" id="56xo1Y65A93" role="Z$ItT">
-          <property role="Z$VEK" value="20" />
-        </node>
+    <node concept="Z$VET" id="24oSWWZ1cWZ" role="Z$Ige">
+      <property role="TrG5h" value="Air Mineral" />
+      <node concept="Z$VEM" id="24oSWWZ1cX0" role="Z$Iio">
+        <property role="Z$VEL" value="45000" />
       </node>
     </node>
   </node>
